@@ -58,12 +58,7 @@
 
 <h1>📬 Contact</h1>
 <p>If you have any suggestions or queries, feel free to reach out to me:</p>
-<ol>
-<li><a href="https://www.linkedin.com/in/kundan-kumar-singh-sca/" target="_blank">My LinkedIn Profile</a></li>
-<li><a href="https://github.com/kundansca" target="_blank">My Github Profile</a></li>
-<li><strong>EmailId:</strong>kksdarmiya@gmail.com</li>
-<li><strong>Contact Number:</strong>+918825332118</li>
-</ol>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
