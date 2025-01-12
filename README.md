@@ -1,7 +1,5 @@
 <h1>Ezee Blitz App</h1>
 <p>A sleek, responsive e-commerce web application built using React.js, Redux Toolkit, and React Router. Designed for seamless user experience with dynamic interfaces and efficient state management.</p>
-<h2>Live Preview</h2>
-<a href="https://ezeeblitz.netlify.app/" target="_self">👉 Ezee-Blitz-App</a>
 <hr/>
 <h2>Features</h2>
 <ul>
