@@ -1,9 +1,9 @@
 <h1>Ezee Blitz App</h1>
 <p>A responsive and dynamic e-commerce web application<strong> built with React.js, Redux Toolkit, and React Router</strong>, designed for seamless user experience.</p>
-<h2>🚀 Live Demo</h2>
+<h2>Live Preview</h2>
 <a href="https://ezeeblitz.netlify.app/" target="_self">👉 Ezee-Blitz-App</a>
 <hr/>
-<h1>📌 Features</h1>
+<h2>Features</h2>
 <ul>
 <li><strong>Add to Cart</strong>: Quickly add items to your shopping cart with real-time updates, enhancing the shopping experience.</li>
 <li><strong>Search Products</strong>: Effortlessly search and locate your desired products with our robust search functionality.</li>
@@ -11,9 +11,8 @@
 <li><strong>Manage Cart</strong>: Seamlessly add or remove items from your cart, giving you complete control over your selections.</li>
 <li><strong>Responsive Design</strong>: Enjoy an optimized and consistent user experience across desktop, tablet, and mobile devices, ensuring accessibility and convenience on any platform.</li>
 </ul>
-
 <hr/>
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
  <li><strong>React.js</strong>: For building the user interface.</li>
  <li><strong>Redux Toolkit</strong>: For state management.</li>
  <li><strong>React Router</strong>: For handling navigation within the app.</li>
