@@ -11,26 +11,15 @@
 </ul>
 <hr/>
 <h2>Tech Stack</h2>
+  <ul>
  <li><strong>React.js</strong>: For building the user interface.</li>
  <li><strong>Redux Toolkit</strong>: For state management.</li>
  <li><strong>React Router</strong>: For handling navigation within the app.</li>
  <li><strong>Bootstrap</strong>: For styling and ensuring responsiveness.</li>
-  <ul>
 </ul>
 <hr/>
-<h2>ScreenShots<h2>
-<h3>Home page</h3>
-<img src="project_screenshots/home_page.png">
-<h3>Search</h3>
-<img src="project_screenshots/product_search _wtih_name.png"/>
-<h3>Filter By Category</h3>
-<img src="project_screenshots/filter_by_category.png"/>
-<h3>Add To Cart</h3>
-<img src="project_screenshots/add_to_cart.png"/>
-<h3>Cart Items</h3>
-<img src="project_screenshots/cartItems.png"/>
-<h3>Click_by_button</h3>
-<img src="project_screenshots/click_buy_button.png"/>
-<h3>Remove cartItem form cart</h3>
-<img src="project_screenshots/remove_cartItem_from_cart.png"/>
-
+<h2>Installation and Setup</h2>
+<p>1. Clone the repository:</p>
+<p>2. Navigate to the project directory:</p>
+<p>3. Install dependencies using npm install</p>
+<p>4. Start the development server usin npm run dev</p>
