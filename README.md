@@ -5,25 +5,19 @@
 <hr/>
 <h1>📌 Features</h1>
 <ul>
-<li><strong>Add to Cart:</strong> Easily add items to your cart with instant updates.</li>
-<li><strong>Search Products:</strong> Quickly find your desired products.</li>
-<li><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
-<li>><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
-
-<li><strong>Manage Cart:</strong> Add or remove items effortlessly.</li>
-<li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile.</li>
+<li><strong>Add to Cart</strong>: Quickly add items to your shopping cart with real-time updates, enhancing the shopping experience.</li>
+<li><strong>Search Products</strong>: Effortlessly search and locate your desired products with our robust search functionality.</li>
+<li><strong>Category Filters</strong>: Easily navigate through products using filters by categories, simplifying your browsing experience.</li>
+<li><strong>Manage Cart</strong>: Seamlessly add or remove items from your cart, giving you complete control over your selections.</li>
+<li><strong>Responsive Design</strong>: Enjoy an optimized and consistent user experience across desktop, tablet, and mobile devices, ensuring accessibility and convenience on any platform.</li>
 </ul>
 
 <hr/>
 <h1>🛠️ Tech Stack</h1>
-<ul>
-  <li><strong>Frontend:</strong></li>
-  <ul>
-  <li>React.js</li>
-  <li>Redux Toolkit (for state management)</li>
-  <li>React Router (for navigation)</li>
-  <li>Bootstrap (for styling and responsiveness)</li>
-
+ <li><strong>React.js</strong>: For building the user interface.</li>
+ <li><strong>Redux Toolkit</strong>: For state management.</li>
+ <li><strong>React Router</strong>: For handling navigation within the app.</li>
+ <li><strong>Bootstrap</strong>: For styling and ensuring responsiveness.</li>
   <ul>
 </ul>
 <hr/>
