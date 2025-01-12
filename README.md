@@ -43,24 +43,6 @@
 <h3>Remove cartItem form cart</h3>
 <img src="project_screenshots/remove_cartItem_from_cart.png"/>
 
-<hr/>
-<h1>⚙️ Installation and Setup</h1>
-<p>1. Clone the repository:</p>
-<p>git clone https://github.com/kundansca/ezee-blitz-app.git</p>
-<p>2. Navigate to the project directory:</p>
-<p>cd ezee-blitz-app</p>
-<p>3. Install dependencies:</p>
-<p>npm install</p>
-<p>4. Start the development server:</p>
-<p>npm run dev</p>
-<p>5. Open the app in your browser:</p>
-<p>http://localhost:5173</p>
-
-<h1>📬 Contact</h1>
-<p>If you have any suggestions or queries, feel free to reach out to me:</p>
-
-# React + Vite
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
