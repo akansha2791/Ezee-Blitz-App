@@ -1,5 +1,5 @@
 <h1>Ezee Blitz App</h1>
-<p>A responsive and dynamic e-commerce web application<strong> built with React.js, Redux Toolkit, and React Router</strong>, designed for seamless user experience.</p>
+<p>A sleek, responsive e-commerce web application built using React.js, Redux Toolkit, and React Router. Designed for seamless user experience with dynamic interfaces and efficient state management.</p>
 <h2>Live Preview</h2>
 <a href="https://ezeeblitz.netlify.app/" target="_self">👉 Ezee-Blitz-App</a>
 <hr/>
@@ -36,9 +36,3 @@
 <h3>Remove cartItem form cart</h3>
 <img src="project_screenshots/remove_cartItem_from_cart.png"/>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
