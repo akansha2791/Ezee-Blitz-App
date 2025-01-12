@@ -18,8 +18,10 @@
  <li><strong>Bootstrap</strong>: For styling and ensuring responsiveness.</li>
 </ul>
 <hr/>
-<h2>Installation and Setup</h2>
-<p>1. Clone the repository:</p>
-<p>2. Navigate to the project directory:</p>
-<p>3. Install dependencies using npm install</p>
-<p>4. Start the development server usin npm run dev</p>
+<h2>Installation</h2>
+<ol>
+<li>Clone the repository.</li>
+<li>Navigate to the project directory.</li>
+<li>Install dependencies using npm install.</li>
+<li>Start the development server usin npm run dev.</li>
+</ol>
